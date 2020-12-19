@@ -13,7 +13,7 @@ $ pip install -r requirements.txt
 Start a blockchain node server,
 
 ```sh
-$ export FLASK_APP=node_server.py
+$ export FLASK_APP=block.py
 $ flask run --port 8000
 ```
 
